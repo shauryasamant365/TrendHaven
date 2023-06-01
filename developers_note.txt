@@ -1,0 +1,7 @@
+In order to continue devlopment:
+  i) Add increment and decrement buttons if, the product is already in the user's cart.
+  ii) Add Contact functionality
+  iii) " Checkout page
+  iv) " Orders page (where all the current orders will be displayed.)
+
+<<<@! with this do the initial commit >>>
